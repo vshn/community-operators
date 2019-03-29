@@ -1,0 +1,4 @@
+packageName: k8up
+channels:
+- name: alpha
+  currentCSV: k8up.v0.1.0
